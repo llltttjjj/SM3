@@ -7,4 +7,4 @@ Introduction: A simple test of sm3 hash funciton
 
 This project has been used as sm3.h in other files.
 
-All codes are wrtien by myself.
+All codes are writen by myself.
